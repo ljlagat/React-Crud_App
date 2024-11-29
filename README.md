@@ -18,5 +18,5 @@ This is a simple CRUD (Create, Read, Update, Delete) application built with Reac
 
 ## Installation
 
-1. Clone the
+1. Clone the https://github.com/ljlagat/React-Crud_App
 
